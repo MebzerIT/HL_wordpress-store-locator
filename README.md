@@ -1,0 +1,1 @@
+# HL_wordpress-store-locator
